@@ -171,20 +171,3 @@ Ambas permitem deploy gratuito com integração direta ao GitHub.
 
 Inclua variáveis de ambiente e `application.yml` adequados para produção.
 
----
-
-## 📘 Requisitos para a AV2
-
-✔️ Código-fonte completo versionado no GitHub
-✔️ `pom.xml` e `application.yml`
-✔️ Testes com JUnit
-✔️ Teste de carga `.jmx`
-✔️ Instruções no README para:
-  - Clonar e executar
-  - Acessar H2 e Swagger
-  - Executar testes e carga
-✔️ Uso do projeto CRUD da AV1 com segurança aplicada
-✔️ Monitoramento com Actuator e Prometheus
-✔️ (Opcional) Docker e Deploy gratuito
-
----
